@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - OneSignal (2.5.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - OneSignal (< 3.0, >= 2.5.2)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  OneSignal: da994bcf6a2efbdceaf71e389e1d05245c562899
+
+PODFILE CHECKSUM: 5785c284cc783921682a115846886753f73f3b9d
+
+COCOAPODS: 1.2.0
